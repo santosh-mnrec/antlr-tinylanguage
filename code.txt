@@ -1,0 +1,16 @@
+
+var a=10;
+var b=20;
+var c=a+b;
+print("sum a and b is :" + c);
+if (a && b) {
+  print ("a+b");
+}
+
+else {
+  print ("false");
+}
+
+print ("Done!");
+
+ 
